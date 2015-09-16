@@ -47,4 +47,5 @@ if (! $result = $mysqli->query($query) ) die("Errpre query : $query");
 
 qui ho fatto una modifica
 
-e poi ancora un'altra
+e poi ancora un'altra<br><br>
+ed ora un'altra ancora
