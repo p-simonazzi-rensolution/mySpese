@@ -15,7 +15,8 @@
     $dataGraph = new DataGraph();
     $dataGraph->setDataInterval("2015-05-06");
 
-    $arrData = $dataGraph->getLastMonth();
+    //qui ho fatto una modifica
+    $arrData = $dataGraph->getYearGroupByMonth();
 
 
 	$strOUT = "[";
