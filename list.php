@@ -44,3 +44,5 @@ if (! $result = $mysqli->query($query) ) die("Errpre query : $query");
 
 <button value="Aggiungi nuova operazione" onclick="location.href='insertOper.php'" >Aggiungi nuova operazione</button>
 <button value="Aggiungi nuova categoria" onclick="location.href='insertCat.php'" >Aggiungi nuova categoria</button>
+
+qui ho fatto una modifica
